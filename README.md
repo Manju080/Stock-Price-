@@ -1,3 +1,3 @@
 # Stock-Price-
 Stock Price Predictor Web application
-shorturl.at/bchQ7
+https://bit.ly/3ie9DdT
